@@ -12,12 +12,12 @@ intents = discord.Intents.all()
 bot = commands.Bot(intents=intents)
 
 #Load the commands/extensions
-modules = [
+commands = [
   'commands.utils.ping'
 ]
 
 if __name__=='__main__':
-  for module in modules:
+  for command in commands:
     bot.load_extension(module)
 
 @bot.event
