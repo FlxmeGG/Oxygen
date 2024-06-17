@@ -18,7 +18,7 @@ commands = [
 
 if __name__=='__main__':
   for command in commands:
-    bot.load_extension(module)
+    bot.load_extension(command)
 
 @bot.event
 async def on_ready():
