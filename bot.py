@@ -12,13 +12,13 @@ intents = discord.Intents.all()
 bot = commands.Bot(intents=intents)
 
 #Load the commands/extensions
-commands = [
+modules = [
   'commands.utils.ping'
 ]
 
 if __name__=='__main__':
-  for command in commands:
-    bot.load_extension(command)
+  for module in modules:
+    bot.load_extension(module)
 
 @bot.event
 async def on_ready():
