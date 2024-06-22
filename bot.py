@@ -13,7 +13,10 @@ bot = commands.Bot(intents=intents)
 
 #Load the commands/extensions
 commands = [
-  'commands.utils.ping'
+  'commands.utils.ping',
+  'commands.moderation.kick',
+  'commands.moderation.ban',
+  'commands.moderation.timeout'
 ]
 
 if __name__=='__main__':
