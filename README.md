@@ -1,6 +1,6 @@
 # Oxygen
 
-![Oxygen](https://imgur.com/a/fYPSnzv)
+![Oxygen](https://imgur.com/Q8LxuiE)
 
 ## What is Oxygen?
 
