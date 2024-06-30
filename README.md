@@ -7,3 +7,12 @@
 ## Installation
 
 > Coming Soon!
+
+## Features
+
+> The bot has currently following commands:
+
+- Ping (To show the latency of the bot)
+- Kick (To kick a user)
+- Ban (To ban a user)
+- Timeout (To mute a user)
