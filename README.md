@@ -1,6 +1,7 @@
 # Oxygen
 
-![Oxygen](https://imgur.com/Q8LxuiE)
+![Oxygen](https://github.com/FlxmeGG/Oxygen/assets/173070036/82374be4-51b3-4b61-9d7f-3b1c0243f7a1)
+
 
 ## What is Oxygen?
 
